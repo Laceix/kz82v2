@@ -1,0 +1,66 @@
+/*head*/
+html {
+  background-color: #292826;
+}
+h1 {
+  border: solid, 3px, black;
+  text-align: center;
+  background-color: #55f007;
+  border-radius: 100px;
+  color: #000000;
+}
+h2 {
+  border: solid, 3px, black;
+  text-align: center;
+  background-color: #55f007;
+  border-radius: 100px;
+  color: #000000;
+}
+/*head*/
+/*image*/
+#img1 {
+  margin: auto;
+  display: block;
+  height: 250px;
+  width: 250px;
+  border-radius: 150px;
+}
+/*image*/
+/*buttons*/
+.arithButtons {
+  text-align: center;
+  font-size: 35px;
+  border-color: black;
+  background-color: #55f007;
+  color: #000000;
+  border-radius: 200px;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+.arithButtons:hover {
+  text-align: center;
+  font-size: 35px;
+  border-color: black;
+  background-color: #292826;
+  color: #55f007;
+  border-radius: 200px;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+/*buttons*/
+/*awnser status*/
+#p1 {
+  border: solid, 3px, black;
+  text-align: center;
+  font-size: 35px;
+  border-color: black;
+  background-color: #55f007;
+  color: #000000;
+  border-radius: 200px;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+/*awnser status*/

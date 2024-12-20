@@ -1,0 +1,86 @@
+/*head*/
+html {
+  background-color: #292826;
+  font-family: "georgia";
+}
+
+h1 {
+  /*  border: solid, 3px, black; */
+  text-align: center;
+  background-color: #55f007;
+  border-radius: 100px;
+  color: #000000;
+}
+h2 {
+  text-align: center;
+}
+/*head*/
+/*images*/
+#img1 {
+  margin: auto;
+  display: block;
+  height: 250px;
+  width: 250px;
+  border-radius: 150px;
+}
+.friends {
+  margin: auto;
+  display: block;
+  height: 100px;
+  width: 100px;
+  border-radius: 150px;
+}
+/*images*/
+/*paragraphs and text*/
+#p1 {
+  /* border: solid, 3px, black; */
+  text-align: center;
+  background-color: #55f007;
+  color: #000000;
+  border-radius: 200px;
+}
+#p2 {
+  /* border: solid, 3px, black; */
+  border-radius: 200px;
+  text-align: center;
+  background-color: #55f007;
+  color: #000000;
+  font-size: x-large;
+  font-weight: bolder;
+}
+#menu {
+  background-color: white;
+  width: 450px;
+  border: 5px solid black;
+  border-radius: 25px;
+  height: 300px;
+  margin: auto;
+  display: block;
+}
+/*paragraphs and text*/
+/*buttons*/
+#b1 {
+  text-align: center;
+  font-size: 35px;
+  border-color: black;
+  background-color: #55f007;
+  border-radius: 200px;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+#b1:hover {
+  text-align: center;
+  font-size: 35px;
+  border-color: black;
+  color: #55f007;
+  background-color: #292826;
+  border-radius: 200px;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+a {
+  text-decoration: none;
+}
+/*buttons*/
